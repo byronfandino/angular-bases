@@ -27,7 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 
-…or create a new repository on the command line
+## …or create a new repository on the command line
 
 echo "# angular-bases" >> README.md
 git init
@@ -38,7 +38,7 @@ git remote add origin https://github.com/byronfandino/angular-bases.git
 git push -u origin main
 
 
-…or push an existing repository from the command line
+## …or push an existing repository from the command line
 
 git remote add origin https://github.com/byronfandino/angular-bases.git
 git branch -M main
